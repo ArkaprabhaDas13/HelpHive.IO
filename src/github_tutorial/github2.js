@@ -4,3 +4,9 @@ function evenNum()
 {
     console.log("even number")
 }
+
+
+function feature()
+{
+    console.log("Feature!!!!!")
+}
