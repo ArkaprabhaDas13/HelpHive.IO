@@ -14,4 +14,5 @@ function feature()
 function feature2()
 {
     console.log("feature2 !!!")
+    console.log("Feature 2 add on 1")
 }
