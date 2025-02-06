@@ -10,3 +10,8 @@ function feature()
 {
     console.log("Feature!!!!!")
 }
+
+function feature2()
+{
+    console.log("feature2 !!!")
+}
