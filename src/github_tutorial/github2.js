@@ -11,6 +11,18 @@ function feature()
     console.log("Feature!!!!!")
 }
 
+function double()
+{
+    const num = 100;
+
+    return function(){
+        console.log(num*2);
+    }
+}
+
+const ans = double();
+ans();
+
 function feature2()
 {
     console.log("feature2 !!!")
@@ -27,3 +39,4 @@ const ans2 = ans1(2);
 const ans3 = ans2(3);
 
 console.log(ans3);
+
