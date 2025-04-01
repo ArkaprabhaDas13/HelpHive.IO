@@ -8,9 +8,9 @@ import { getDatabase, ref, set } from "firebase/database";
  const Home = () => {
 
   const services = [
-    { name: "nanny", icon: "👩‍🦰" },
-    { name: "driver", icon: "👨" },
-    { name: "nurse", icon: "❄️" },
+    { name: "nanny", icon: "👶🏻" },
+    { name: "driver", icon: "🚘" },
+    { name: "nurse", icon: "👩🏻‍⚕️" },
   ];
 
    return (
